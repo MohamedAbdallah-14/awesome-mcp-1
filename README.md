@@ -158,6 +158,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://www.svgrepo.com/show/475634/amazon-color.svg" height="14"/> [Amazon Product Advertising](https://github.com/jademind/mcp-amazon-paapi) - Wraps Amazon’s Product Advertising API 5.0, providing keyword search and ASIN lookup endpoints that return products with your Associate partner-tagged URLs.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - MCP server and CLI that removes named AI writing tells from text: tricolons, em-dash pileups, hedging stacks, sycophancy openers, overused vocab. Lint-only audit mode included. Five intensity levels.
 
 <br />
 
@@ -242,6 +243,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://huggingface.co/favicon.ico" height="14"/> [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more.
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) - Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing across 30+ image generation models. Zero API key for first run via Pollinations, Stable Horde, HuggingFace free tiers.
 
 <br />
 
